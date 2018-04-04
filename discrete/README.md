@@ -7,7 +7,7 @@
 
 * ## Sum Manipulations with Arithmetic Series
   * Item 5: Introducing Arithmetic Series, Sigma Notation
-    * **Schaffer Formula #1 (sum of first n numbers = n(n+1)/2 )**p3
+    * **Schaffer Formula #1 (sum of first n numbers = n(n+1)/2 )** p3
   * Item 6: Sigma Manipulations
 
 * ## Set Theory 
@@ -18,13 +18,13 @@
 * ## Binomial Theorem
   * Item 8: Coefficients of terms with 0,1,2 y's
   * Item 9: Binomial Coefficients
-    * **Schaffer Formula #2( nCk = nCn-k )**p5
-    * **SF#3( Binomial Theorem )**p5
+    * **Schaffer Formula #2( nCk = nCn-k )** p5
+    * **SF#3( Binomial Theorem )** p5
   
 * ## Multiplication Principle
   * Item 10: Introducing Multiplication Principle
   * Item 11: Number of terms in a binomial expansion (with subscripts)
-  * Item 12: **SF#4( sum nCi = 2^n )**p6
+  * Item 12: **SF#4( sum nCi = 2^n )** p6
   * Item 13: Total number of elements in an n element set
   
 * ## Factorial Manipulation
@@ -32,7 +32,7 @@
   * Item 15: Factorial Manipulation (canceling factors in numerator/denominator)
   * Item 16: Ordering k elements of an n element set ( n!/(n-k)! )
   * Item 17: Choosing k element subsets of an n element set
-    * **SF#5( nCk = n! / k!(n-k! )**p9
+    * **SF#5( nCk = n! / k!(n-k! )** p9
   * Item 18: Calculating Binomial Coefficients using SF5
   
 * Item 19: Representing numbers in binary and other bases (repeated division technique)

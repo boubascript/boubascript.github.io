@@ -72,7 +72,32 @@
     * In each pair, one subset must be even and the other must be odd, but if each pair contributes 1
     * Introducing combinatorial proofs
   * **SF#9 ( sum -1<sup>^</sup>i <sub>n</sub>C<sub>i</sub> = 0)** p19
-    
+     
+* Algebraic and Combinatorial Choose Formula Proofs
+  * Item 27: 
+  * Item 28: 
   
+* ## Proof by Induction 
+  * Item 29: Sum of First n odd numbers 
+  * Item 30: Sum of First n squares
+  * Item 31: Sum of First n Cubes (Not Induction)
+  * Item 32: Recursive algorithm for calculating binomial coefficients
   
+* Item 33: Number of recursive function calls 
 
+* ## Graph Theory
+  * Item 34: Number of odd degree vertices is always even
+  * Item 35: Pigeonhole principle
+
+* ## Recurrences
+  * Item 36: n x 2 area with 1 x 2 Tiles 
+  * Item 37: Tower of Hanoi
+  * Item 38: Basic Recurrence Solve
+  * Item 39: Solving a class of recurrences
+  * Item 40: Using geometric sequences to solve recurrences
+  * Item 41: Closing the tile problem and geometric sequence technique
+
+* Item 42: Life, the Universe, and Everything
+
+
+ 

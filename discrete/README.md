@@ -7,7 +7,7 @@
 
 * ## Sum Manipulations with Arithmetic Series
   * Item 5: Introducing Arithmetic Series, Sigma Notation
-    * **Schaffer Formula #1 (sum of first n numbers = n(n+1)/2 )**
+    * **Schaffer Formula #1 (sum of first n numbers = n(n+1)/2 )**p3
   * Item 6: Sigma Manipulations
 
 * ## Set Theory 
@@ -18,13 +18,13 @@
 * ## Binomial Theorem
   * Item 8: Coefficients of terms with 0,1,2 y's
   * Item 9: Binomial Coefficients
-    * **Schaffer Formula #2( nCk = nCn-k )**
-    * **SF#3( Binomial Theorem )**
+    * **Schaffer Formula #2( nCk = nCn-k )**p5
+    * **SF#3( Binomial Theorem )**p5
   
 * ## Multiplication Principle
   * Item 10: Introducing Multiplication Principle
   * Item 11: Number of terms in a binomial expansion (with subscripts)
-  * Item 12: **SF#4( sum nCi = 2^n )**
+  * Item 12: **SF#4( sum nCi = 2^n )**p6
   * Item 13: Total number of elements in an n element set
   
 * ## Factorial Manipulation
@@ -32,7 +32,7 @@
   * Item 15: Factorial Manipulation (canceling factors in numerator/denominator)
   * Item 16: Ordering k elements of an n element set ( n!/(n-k)! )
   * Item 17: Choosing k element subsets of an n element set
-    * **SF#5( nCk = n! / k!(n-k! )**
+    * **SF#5( nCk = n! / k!(n-k! )**p9
   * Item 18: Calculating Binomial Coefficients using SF5
   
 * Item 19: Representing numbers in binary and other bases (repeated division technique)
@@ -45,8 +45,8 @@
     * The highest n bit number is 1 less than the smallest (n+1) bit number = (2^n -1)
 
 * ## Item 21: Geometric Series (sum of a geometric sequence)
-  * **SF#6 ( Sum of a geometric sequence / evaluating geometric series )**
-  * **SF#7 ( Sum of an infinite geometric sequence / evaluating infinite geometric series )**
+  * **SF#6 ( Sum of a geometric sequence / evaluating geometric series )** p12
+  * **SF#7 ( Sum of an infinite geometric sequence / evaluating infinite geometric series )** p13
   * Technique for evaluating geometric series
     * factor out first term so series starts at 1
     * write each term in the form of r to a power
@@ -60,8 +60,19 @@
     * Instead of using sigma manipulations, multiplying 2 sums 
     
 * Item 25: Pascal's Triangle
+  * **SF#8 ( minus C minus 1 + minus 1 C same  ) p16**
+  * Triangle properties (symmetric, rows add to 2^n)
   
-
+* Item 26: Alternating Row of Pascal's Triangle (is 0)
+  * Using binomial theorem
+  * Using SF8 and telescoping sum
+  * Representing positives as even sized subsets and negatives as odd sized subsets
+    * Prove that a set has the same number of each 
+    * Form pairs of subsets that are exactly identical except one includes a the other doesnt
+    * In each pair, one subset must be even and the other must be odd, but if each pair contributes 1
+    * Introducing combinatorial proofs
+  * **SF#9 ( sum -1<sup>^</sup>i <sub>n</sub>C<sub>i</sub> = 0)** p19
+    
   
   
 

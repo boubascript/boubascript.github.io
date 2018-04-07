@@ -74,8 +74,8 @@
   * **SF#9 ( sum -1<sup>^</sup>i <sub>n</sub>C<sub>i</sub> = 0)** p19
      
 * Algebraic and Combinatorial Choose Formula Proofs
-  * Item 27: 
-  * Item 28: 
+  * Item 27: Algebraic Proof of SF#8
+  * Item 28: Algebraic and Combinatorial Proof of <sub>n</sub>C<sub>k</sub> = n/k (<sub>n-1</sub>C<sub>k-1</sub>)
   
 * ## Proof by Induction 
   * Item 29: Sum of First n odd numbers 
@@ -97,7 +97,56 @@
   * Item 40: Using geometric sequences to solve recurrences
   * Item 41: Closing the tile problem and geometric sequence technique
 
-* Item 42: Life, the Universe, and Everything
-
-
+* Item 42: Sum x<sup>i</sup> <sub>n</sub>C<sub>i</sub> = (x+1)<sup>n</sup>
+  * Combinatorial Proof
+  * Using Binomial Theorem
+  
+* ## Permutations of things with repeats
+  * Item 43: Number of ways of arranging digits of a number that have repeated digits
+    * Add subscripts and divide by rearrangements that are the same
+    * Using multiplication principle 
+    * Derivation of factorial formula for binomial coeffecients with this method
+  * Item 44: Assigning people tasks 
+    * Tasks are all different: think of it as tasks to people instead of people to tasks
+    * Tasks are all the same: stars and bars 
+  * Item 45: n digit numbers with at least 1 repeated digits
+    * Introducing general principle: count what you don't want and subtract
  
+* ## Probability (RIP)
+  * Item 46: Chance of choosing a random subset of k elements from an n element set
+  * Item 47: Chance of being dealt a one pair hand; chance of a flush
+    * Introducing poker and card system
+    * Construct in stages with multiplication principle
+  * Item 48: Chance of a straight or a flush or both
+    * Introducing inclusion exclusion principle
+  * Item 49: Coin Flips with a run of at least 3
+    * Subtract unwanted runs from total
+    * Create inductive definition for recurrence describing unwanted runs
+
+* Item 50: Average Number of flips of a fair coin
+* Item 51: Evaluating solution to Item 50
+  * Advanced sum manipulations
+* Item 52: sum i <sub>n</sub>C<sub>i</sub> = n (2<sup>n-1</sup>)
+  * Combinatorial Proof
+  * Proof by Induction
+  
+* ## More Probability 
+  * Item 53: 𝑃(𝑘 heads in 𝑛 flips) for unfair coins
+    * Building the probability
+    * Using binomial theorem
+    * **SF #10 (probability of k heads in n flips)**
+  * Item 54: Advanced Inclusion Exclusion 
+    * Getting the formula
+    * proving it correctly counts arbitrary element k
+    * Using alternating sum of pascals triangle proof
+    * Using formula in the problem
+ 
+* Set Operations, Logic, and De Morgan's
+  * Item 55: Distributive Law for Sets; De Morgan's Law for Sets
+  * Item 56: Propositional Logic and Truth Tables
+  
+* Item 57: Proving Item 52 using average size of a subset
+
+
+    
+    

@@ -8,17 +8,29 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
+          <div>
+            <p>Currently editing &nbsp;
+              <a href="https://www.github.com/dialbouba"
+                className="App-link"
+                target="_blank"
+                rel="noopener noreferrer">
+                  <code>src</code>
+              </a>.
+            </p>
+            <p>
+              Be back soon.
+            </p>
+          </div>
+          <p> In the meantime: &nbsp;
+            <a 
+              href="/boubacar_diallo_resume.pdf"
+              className="App-link"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Resume
+              </a>
           </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
         </header>
       </div>
     );

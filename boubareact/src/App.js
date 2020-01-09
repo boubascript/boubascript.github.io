@@ -8,8 +8,8 @@ class App extends Component {
         <header className="App-header">
           <h1 className="App-logo">Bouba</h1>
           <div>
-            <p>Currently editing &nbsp;
-              <a href="https://www.github.com/dialbouba"
+            <p>Currently editing
+              <a href="https://www.github.com/dialbouba/dialbouba.github.io"
                 className="App-link"
                 target="_blank"
                 rel="noopener noreferrer">
@@ -28,7 +28,7 @@ class App extends Component {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Resume
+                <i class="fa fa-file fa-3x" aria-hidden="true"></i>
               </a>
               &nbsp;
               <a 
@@ -37,7 +37,7 @@ class App extends Component {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Github
+                <i class="fa fa-github-alt fa-3x" aria-hidden="true"></i>
               </a>
               &nbsp;
               <a 
@@ -46,7 +46,7 @@ class App extends Component {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Linkedin
+                <i class="fa fa-linkedin fa-3x" aria-hidden="true"></i>
               </a>
             </p>
         </header>

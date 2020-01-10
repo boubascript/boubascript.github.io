@@ -6,9 +6,10 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <h1>Working on it ...</h1>
+          <h1 className="loading-text">Working on it ...</h1>
           <h1 className="App-logo">Bouba</h1>
-          <div>
+        </header>
+          <div className="App-body">
             <p>Currently editing
               <a href="https://www.github.com/dialbouba/dialbouba.github.io"
                 className="App-link"
@@ -21,6 +22,7 @@ class App extends Component {
               Be back soon.
             </p>
           </div>
+          <div className="App-body">
           <p> In the meantime: </p>
           <p>
             <a 
@@ -50,7 +52,7 @@ class App extends Component {
                 <i title = "My Network" className="fa fa-linkedin fa-3x" aria-hidden="true"></i>
               </a>
             </p>
-        </header>
+          </div>
       </div>
     );
   }

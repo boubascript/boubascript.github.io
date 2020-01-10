@@ -6,6 +6,7 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
+          <h1>Working on it ...</h1>
           <h1 className="App-logo">Bouba</h1>
           <div>
             <p>Currently editing
@@ -28,7 +29,7 @@ class App extends Component {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <i class="fa fa-file fa-3x" aria-hidden="true"></i>
+                <i title="My Resume" className="fa fa-file-text fa-3x" aria-hidden="true"></i>
               </a>
               &nbsp;
               <a 
@@ -37,7 +38,7 @@ class App extends Component {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <i class="fa fa-github-alt fa-3x" aria-hidden="true"></i>
+                <i title ="My Code" className="fa fa-github-alt fa-3x" aria-hidden="true"></i>
               </a>
               &nbsp;
               <a 
@@ -46,7 +47,7 @@ class App extends Component {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <i class="fa fa-linkedin fa-3x" aria-hidden="true"></i>
+                <i title = "My Network" className="fa fa-linkedin fa-3x" aria-hidden="true"></i>
               </a>
             </p>
         </header>

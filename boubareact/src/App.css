@@ -17,8 +17,16 @@
   font-size: calc(2vmin);
 }
 
-.loading-text {
+.title-text {
   font-size: calc(6vmin);
+}
+
+.header-text {
+  font-size: calc(4vmin);
+}
+
+.divider {
+  margin:20px;
 }
 
 .App-body {

@@ -7,16 +7,16 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <h1 className="title-text"> Boubacar Diallo</h1>
-          <h1 className="header-text">Software Developer <span className="divider">|</span> ??? <span className="divider">|</span>  Working on it ...</h1>
-          <h1 className="App-logo">vibes</h1>
+          <h1 className="header-text">Software Developer <span className="divider">|</span> ??? <span className="divider">|</span>  Working on things ...</h1>
         </header>
-          <div className="App-body">
+          <div className="App-body align-left">
+            <p> CS Major interested in gaining experience with every part of the stack.</p>
             <p>Currently editing
               <a href="https://www.github.com/dialbouba/dialbouba.github.io"
                 className="App-link"
                 target="_blank"
                 rel="noopener noreferrer">
-                  <code>src</code>
+                    src
               </a>.
             </p>
             <p>
@@ -32,7 +32,7 @@ class App extends Component {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <i title="My Resume" className="fa fa-file-text fa-3x" aria-hidden="true"></i>
+                <i title="My Resume" className="fa fa-file-text fa-2x" aria-hidden="true"></i>
               </a>
               &nbsp;
               <a 
@@ -41,7 +41,7 @@ class App extends Component {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <i title ="My Code" className="fa fa-github-alt fa-3x" aria-hidden="true"></i>
+                <i title ="My Code" className="fa fa-github-alt fa-2x" aria-hidden="true"></i>
               </a>
               &nbsp;
               <a 
@@ -50,7 +50,7 @@ class App extends Component {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <i title = "My Network" className="fa fa-linkedin fa-3x" aria-hidden="true"></i>
+                <i title = "My Network" className="fa fa-linkedin fa-2x" aria-hidden="true"></i>
               </a>
             </p>
           </div>

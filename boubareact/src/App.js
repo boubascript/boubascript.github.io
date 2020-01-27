@@ -12,7 +12,7 @@ class App extends Component {
           <div className="App-body align-left">
             <p> CS Major interested in gaining experience with every part of the stack.</p>
             <p>Currently editing
-              <a href="https://www.github.com/dialbouba/dialbouba.github.io"
+              <a href="https://www.github.com/boubascript/boubascript.github.io"
                 className="App-link"
                 target="_blank"
                 rel="noopener noreferrer">
@@ -27,7 +27,7 @@ class App extends Component {
           <p> In the meantime: </p>
           <p>
             <a 
-                href="/boubacar_diallo_resume.pdf"
+                href="/boubacar_diallo_resume_public.pdf"
                 className="App-link"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -36,7 +36,7 @@ class App extends Component {
               </a>
               &nbsp;
               <a 
-                href="https://github.com/dialbouba"
+                href="https://github.com/boubascript"
                 className="App-link"
                 target="_blank"
                 rel="noopener noreferrer"

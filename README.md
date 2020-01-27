@@ -1,2 +1,2 @@
-# dialbouba.github.io
-main site 
+# boubascript.github.io
+a website, by me

@@ -2,16 +2,11 @@
   text-align: center;
   background-color: #282c34;
   min-height: 100vh;
-  min-width: 500px;
+  min-width: 100px;
   display: flex;
   flex-direction: column;
   /* align-items: center; */
   color: white;
-}
-
-.App-logo {
-  animation: App-logo-spin infinite 7s ease;
-  height: 10vmin;
 }
 
 .App-header {
@@ -30,9 +25,18 @@
   margin:20px;
 }
 
+.align-left {
+  text-align: left;
+}
 
 .App-body {
   font-size: calc(5vmin);
+}
+
+.App-section {
+  font-size: calc(4vmin);
+  width: 50%;
+  margin:auto;
 }
 
 .App-link {
@@ -40,11 +44,8 @@
   padding-left:10px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
+@media only screen and (max-width: 768px) {
+  .header-text {
+    font-size: calc(3vmin);
   }
 }

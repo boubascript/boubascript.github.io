@@ -15,7 +15,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build && git checkout gh-pages && git rebase origin master"
+    "deploy": "gh-pages -d build && git checkout master  && git rebase gh-pages && git push"
   },
   "eslintConfig": {
     "extends": "react-app"

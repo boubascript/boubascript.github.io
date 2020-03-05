@@ -20,7 +20,7 @@ export default class App extends Component {
                   src
                   </a>.
               </p>
-              <p>Be back soon.</p>
+              <p>Reinventing myself at the moment, be back soon.</p>
               <p> In the meantime,
                 <a href="https://hunter-college-ossd-spr-2020.github.io/boubascript-weekly/"
                     className="App-link"

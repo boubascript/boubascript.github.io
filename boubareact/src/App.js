@@ -11,7 +11,7 @@ export default class App extends Component {
         </header>
         <div className = "App-body">
             <div className="App-section align-left">
-              <p> Undergraduate CS Major interested in gaining experience with every part of the stack.</p>
+              <p> Undergraduate CS Major trying to put the full in full-stack developer.</p>
               <p>Currently editing
                   <a href="https://www.github.com/boubascript/boubascript.github.io"
                     className="App-link"

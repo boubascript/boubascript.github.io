@@ -25,7 +25,7 @@ export default class App extends Component {
                 <a href="https://hunter-college-ossd-spr-2020.github.io/boubascript-weekly/"
                     className="App-link"
                     target="_blank"
-                    rel="noopener noreferrer"> follow my journey in open source development</a>.
+                    rel="noopener noreferrer">follow my journey in open source development</a>.
               </p>
               <p>Or stalk my professional online presence:</p>
             </div>
